@@ -1,0 +1,13 @@
+Questão 1: Quais são os benefícios de se criar um diagrama de classes?
+Resposta: 
+    Ajuda a visualizar a estrutura e as relações entre as classes;
+    Ajuda a identificar possíveis problemas de design;
+    Facilita a comunicação entre a equipe de desenvolvimento e outras partes interessadas;
+    Ajuda a documentar o projeto de software.
+
+Questão 2: O que é um array e como é a sua implementação?
+Resposta: 
+    Um array é uma estrutura de dados que permite armazenar um conjunto de valores do mesmo tipo. Em C#, 
+    um array é criado especificando o tipo de dados que será armazenado e o número de elementos do array. 
+    A implementação de um array em C# é feita usando colchetes [] após o tipo de dados e os elementos do 
+    array são acessados através de um índice que começa em 0.

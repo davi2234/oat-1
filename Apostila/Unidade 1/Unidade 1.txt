@@ -1,0 +1,21 @@
+Questão 1: Qual a diferença entre Polimorfismo, Herança, Encapsulamento e Abstração?
+Resposta: 
+    Polimorfismo - é a capacidade de objetos de classes diferentes responderem a uma mesma mensagem de maneiras diferentes. 
+    É um conceito fundamental da programação orientada a objetos e permite a criação de códigos mais flexíveis e reutilizáveis.
+    Herança - é a relação entre duas classes em que uma classe filha herda os atributos e métodos de uma classe mãe. 
+    Isso permite a criação de novas classes a partir de outras já existentes, sem a necessidade de reescrever todo o código.
+    Encapsulamento - é a técnica que permite esconder detalhes de implementação de uma classe e expor apenas as interfaces 
+    necessárias para o uso dessa classe. Isso torna o código mais seguro, flexível e fácil de manter.
+    Abstração - é a capacidade de identificar as características essenciais de um objeto e criar uma classe que represente essas 
+    características de forma genérica. Isso permite a criação de códigos mais abstratos e reutilizáveis.
+
+Questão 2: O que é Associação, Agregação, Composição e Generalização?
+Resposta: 
+    Associação - é a relação entre duas classes em que uma classe utiliza objetos de outra classe como atributos ou parâmetros de métodos.
+    Agregação - é a relação entre duas classes em que uma classe possui objetos de outra classe como parte de sua estrutura, mas esses objetos 
+    podem existir independentemente da classe que os contém.
+    Composição - é uma relação de agregação mais forte, em que a existência do objeto contido depende da existência da classe que o contém. 
+    Se a classe contenedora for destruída, o objeto contido também será.
+    Generalização - é a relação entre duas classes em que uma classe filha herda os atributos e métodos de uma classe mãe, como na herança. 
+    No entanto, a generalização é usada para representar relações entre classes mais abstratas e genéricas. 
+    Por exemplo, a classe "Mamífero" pode ser generalizada para "Cão" e "Gato".
